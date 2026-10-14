@@ -16,7 +16,7 @@
 | 분류 | 단어장 |
 | --- | --- |
 | 옥스퍼드 사전영어 3000개 | A1 입문, A2 초급, B1 중급, B2 중상급 |
-| 시험 | TOEIC, TOEIC 1회차, IELTS, TOEFL, TEPS |
+| 시험 | TOEIC, TOEIC 1회차, IELTS, TOEFL, TEPS, 옥스퍼드 3000 |
 | 회화 | OPIc AL, OPI |
 | 표현 | 숙어, 구동사 |
 | 직군 | PM·마케터, 개발자, 디자이너 |
